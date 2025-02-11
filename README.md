@@ -15,6 +15,7 @@ This Java-based application is designed to detect the type of an image file by r
 
 - **Java 8** or higher
 - Supported image files: **RAW (CR2)**, **BMP**, **JPEG**, **TIFF**, **PNG**, **GIF**.
+- The Image must be in the same folder as the source code for the program to process it.
 
 ## How to Use
 
